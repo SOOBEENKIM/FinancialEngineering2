@@ -54,11 +54,14 @@ The binomial method is especially useful for American-style options that cannot 
 ---
 
 ## 📁 Folder Structure
+
+```
 financial-engineering2/
 └── project2_option_pricing/
 ├── Proj2_BlackScholesMerton.ipynb # Closed-form BSM pricing model
 ├── Proj2_BTREE.ipynb # Binomial tree implementation
 └── README.md
+```
 
 ---
 
